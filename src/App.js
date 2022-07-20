@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Datvina />
+      <h1>d</h1>
     </div>
   );
 }
